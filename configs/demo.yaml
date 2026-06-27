@@ -1,0 +1,6 @@
+scenario: synthetic_demo
+uav_budget: 4
+access_radius_km: 2.0
+backhaul_radius_km: 4.5
+max_hops: 2
+capacity_per_gateway: 5
